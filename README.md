@@ -7,4 +7,4 @@ My LeetCode practice in C++, with a brief summary, approach, and complexity for 
 | # | Problem | Difficulty | Time | Space | Solution |
 |---|---------|------------|------|-------|----------|
 | 3360 | Stone Removal Game | Easy | O(1) | O(1) | [3360_stone_removal_game.cpp](3360_stone_removal_game.cpp) |
-| 1 | Two Sum | Easy | O(N) | O(N)| [1_two_sum.cpp](1_two_sum.cpp) |
+| 1 | Two Sum | Easy | O(N) | O(N)| [1_Two_sum.cpp](1_Two_sum.cpp) |
