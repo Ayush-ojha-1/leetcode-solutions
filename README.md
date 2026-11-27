@@ -8,3 +8,4 @@ My LeetCode practice in C++, with a brief summary, approach, and complexity for 
 |---|---------|------------|------|-------|----------|
 | 3360 | Stone Removal Game | Easy | O(1) | O(1) | [3360_stone_removal_game.cpp](3360_stone_removal_game.cpp) |
 | 1 | Two Sum | Easy | O(N) | O(N)| [1_Two_Sum.cpp](1_Two_Sum.cpp) |
+| 9 | Palindrome Number | Easy | O(log n) | O(log n) | [9_Palindrome_Number.cpp](9_Palindrome_Number.cpp)
